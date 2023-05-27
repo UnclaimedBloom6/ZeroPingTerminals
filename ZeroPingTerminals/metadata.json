@@ -1,0 +1,13 @@
+{
+    "name": "ZeroPingTerminals",
+    "description": "Removes the forced delay between clicking items inside of terminals.",
+    "creator": "UnclaimedBloom6",
+    "entry": "index.js",
+    "version": "1.0.0",
+    "requires": [
+        "BloomCore",
+        "Bloom",
+        "PogData",
+        "requestV2"
+    ]
+}
