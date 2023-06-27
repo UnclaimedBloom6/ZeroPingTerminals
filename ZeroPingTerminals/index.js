@@ -1,7 +1,8 @@
 
-import "./ZeroPingTerms"
 import "./UpdateChecker"
+import ZeroPingTerms from "./ZeroPingTerms"
 import config from "./config"
+
 
 register("command", () => {
     config.openGUI()

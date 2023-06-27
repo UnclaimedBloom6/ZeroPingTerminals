@@ -1,7 +1,10 @@
 {
     "moduleName": "ZeroPingTerminals",
-    "latestVersion": "1.0.0",
+    "latestVersion": "2.0.0",
     "changelog": [
-        "Initial Release"
+        "Complete rewrite",
+        "Terminal now fixes itself if it breaks",
+        "GUI looks smoother",
+        "Backend is much nicer"
     ]
 }

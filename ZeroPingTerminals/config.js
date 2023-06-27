@@ -24,6 +24,21 @@ class Config {
             `
         )
 
+        const switches = [
+            "&a&lZero Ping Terminals",
+            "Colors",
+            "Starts With",
+            "Numbers",
+            "Red Green",
+            "Rubix"
+        ]
+        
+        switches.forEach(a => {
+            this.registerListener(a, () => {
+                Client.scheduleTask(0, () => ChatLib.command(`ghdfgkdfhkgjdfgjupdate0pingterminals`, true))
+            })
+        })
+
     }
     // ---------------------------------------------------------------
     // General
