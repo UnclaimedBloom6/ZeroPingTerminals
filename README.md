@@ -10,5 +10,4 @@ In terminals, when you click an item you would normally have to wait for the ser
 
 Zero ping terminals increments that window ID itself, meaning you don't have to wait for the server to respond before being able to click a new item.
 
-## NOTE: Although nobody has been banned for using Zero Ping Terminals, it is not impossible for future anticheat updates to make it unsafe. Use at own risk.
-If zero ping terminals ever does become unsafe to use, I will release an update as soon as possible letting users know not to use it.
+## WARNING: UNSAFE. Recently, people using zero ping terminals have been getting banned. I am still unsure if zero ping is actually the reason or if it's something else, but for now it is recommended not to use it. Also, the module is currently broken and I do not have the means to fix it currently.
