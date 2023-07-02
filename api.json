@@ -2,9 +2,7 @@
     "moduleName": "ZeroPingTerminals",
     "latestVersion": "2.0.1",
     "changelog": [
-        "Complete rewrite",
-        "Terminal now fixes itself if it breaks",
-        "GUI looks smoother",
-        "Backend is much nicer"
+        "WARNING: Zero ping terminals has become unsafe to use.",
+        "Recommended to disable or uninstall the module ASAP."
     ]
 }
