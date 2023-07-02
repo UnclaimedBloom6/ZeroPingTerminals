@@ -1,6 +1,6 @@
 
 import "./UpdateChecker"
-import ZeroPingTerms from "./ZeroPingTerms"
+// import ZeroPingTerms from "./ZeroPingTerms"
 import config from "./config"
 
 
