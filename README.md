@@ -1,4 +1,8 @@
 # ZeroPingTerminals
+
+## WARNING: No longer works.
+Hypixel has begun detecting and banning people for using mods which alter how window click packets are send across guis, which means that this module has a very high likelihood of banning you if you use it. For this reason, this repo has been archived. If you wish to view the code to see how it works then you are still free to do so, however it is strongly recommended that you do not attempt to use this in-game.
+
 Zero Ping Terminals for Hypixel Skyblock. Moved to it's own module to reduce the effort of updating Bloom module.
 
 Config Command: /zeroping
